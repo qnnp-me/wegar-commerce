@@ -1,0 +1,13 @@
+{
+  "name": "wegar/commerce",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin wegar/commerce",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Wegar\\Commerce\\": "src"
+    }
+  }
+}
